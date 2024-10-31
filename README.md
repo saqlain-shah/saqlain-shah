@@ -52,8 +52,8 @@ I’m **Saqlain Shah** from Skardu, Pakistan! I’m a **Full Stack Developer** a
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/saqlainshah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:saqlain.shah.baltee@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linktr.ee/saqlain_shah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saqlainshahbaltee@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
