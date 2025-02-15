@@ -1,50 +1,69 @@
-# Hey there 👋
+# Hi there! 👋 I'm Saqlain Shah
 
-I’m **Saqlain Shah** from Skardu, Pakistan! I’m a **Full Stack Developer** and **Remote Software Engineer** with a passion for exploring new technologies and continuously learning about emerging sciences.
+I'm a Full Stack Software Engineer. I’m passionate about building modern web, mobile, and desktop applications, and I’m always keeping up with the latest trends and technologies. 
 
-- 🔭 Currently working as a Full Stack Developer
-- 🌱 Always eager to dive into emerging tech and improve my skills
-- ⚡ Fascinated by advancements in cybersecurity and AI
-
----
-
-### 🛠️ Languages & Tools
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="TypeScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="Next.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS3 logo" />
-  
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="Express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="NestJS logo" />
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="PostgreSQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="MongoDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" width="52" alt="MariaDB logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="Firebase logo" />
-  
-  <!-- DevOps & Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="AWS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="Nginx logo" />
-  
-  <!-- Others -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="GraphQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="Material UI logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="Tailwind CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="Bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="SASS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="Git logo" />
-</div>
+🔭 **Currently working as a Full Stack Developer**  
+🌱 **Always exploring new technologies** to enhance my skill set  
+⚡ **Fascinated** by advancements in **AI**, **cybersecurity**, and **blockchain**
 
 ---
 
+## 🚀 Tech Stack & Skills
+
+### 🖥️ **Frontend Development**  
+- **Languages:** JavaScript (ES6+), TypeScript  
+- **Frameworks/Libraries:** React.js, Next.js, Vue.js  
+- **Styling:** HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS, Material UI
+
+### 🔧 **Backend Development**  
+- **Languages/Frameworks:** Node.js, Express.js, NestJS  
+- **APIs:** GraphQL, REST API  
+- **Python Frameworks:** Django, FastAPI
+
+### 📱 **Mobile App Development**  
+- **Cross-platform:** Flutter (Dart) for iOS & Android  
+- **React Native**
+
+### 💻 **Desktop App Development**  
+- **Framework:** Electron.js – Cross-platform desktop apps
+
+### 🗄️ **Databases & Cloud Services**  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, MariaDB  
+- **Cloud Services:** AWS (S3, Lambda, EC2, DynamoDB), Google Cloud, Firebase
+
+### 🤖 **AI & Machine Learning**  
+- **Libraries:** TensorFlow, PyTorch  
+- **Technologies:** Natural Language Processing (NLP), Speech-to-Text (STT)  
+- **Computer Vision:** OpenCV, YOLO, DALL·E, Stable Diffusion  
+- **Chatbots & AI Assistants:** GPT APIs, LangChain
+
+### ⚡ **DevOps & Tools**  
+- **Containerization:** Docker, Kubernetes  
+- **Web Servers:** Nginx, Apache  
+- **CI/CD:** GitHub Actions, Jenkins  
+- **Version Control:** Git, GitHub, Bitbucket
+
+---
+
+## 🌱 What I’m Learning Right Now
+
+- **Exploring:** New advancements in AI & machine learning  
+- **Improving:** My understanding of blockchain technology  
+- **Enhancing:** My skills in DevOps and cloud architectures
+
+---
+
+## 📫 Get in Touch
+
+Feel free to connect with me!  
+- [LinkedIn](https://www.linkedin.com/in/saqlain-shah)  
+- [Twitter](https://twitter.com/saqlain_dev)  
+- [Email](mailto:saqlain@dev.com)  
+- [Portfolio](https://saqlain.dev)
+
+Let’s build something amazing together! 🚀
+
+---
 ### 🌐 Connect with Me
 
 <p align="left">
